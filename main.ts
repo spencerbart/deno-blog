@@ -12,6 +12,7 @@ blog({
     { title: "LinkedIn", url: "https://www.linkedin.com/in/spencerbart/" },
   ],
   favicon: "./favicon.ico",
+  footer: " ",
 
   // middlewares: [
 
