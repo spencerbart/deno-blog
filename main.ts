@@ -13,6 +13,9 @@ blog({
   ],
   favicon: "./favicon.ico",
   footer: " ",
+  lang: "en",
+  ogImage: "./graph_image.jpg",
+  // cover: "./spencer.jpg"
 
   // middlewares: [
 
