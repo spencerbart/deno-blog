@@ -1,6 +1,6 @@
 ---
 title: My Thoughts on Next.js
-publish_date: 2022-07-14
+publish_date: 2022-07-15
 ---
 
 It's freaking awesome. It is by far the most production ready web framework out there. With features like hybrid static & server rendering, automatic code splitting, route pre-fetching, api routes, layouts, and more, there is a reason why the biggest companies in the world choose to use Next.js for their core product. Everyone from TikTok, Walmart, Hulu, Twitch, Target, HBO Max, IGN, AT&T, Ticketmaster, Nintendo, Doordash, TED, Auth0, and so many more all use Next.js for their core product.

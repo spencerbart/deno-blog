@@ -1,6 +1,6 @@
 ---
 title: My Thoughts on Apple's M series SOCs
-publish_date: 2022-07-16
+publish_date: 2022-07-02
 ---
 
 I've been rocking a tited out M1 Max MacBook Pro 16in with 32GB of RAM and it is insane. The speed, the battery life, the screen. It is all just so perfect.
