@@ -1,9 +1,6 @@
 ---
 title: My Thoughts on Deno and Deno Deploy
 publish_date: 2022-07-14
-cover_html: <img src="https://blog.hyper.io/content/images/size/w2000/2021/05/deno.png" alt="Deno Deploy" />
-og:image: https://blog.hyper.io/content/images/size/w2000/2021/05/deno.png
-tags: Deno Deploy
 ---
 
 We live in an age now where you can deploy websites and web apps that scale to millions of users and pay absolutely nothing. With the emergence of platforms like [Deno Deploy](https://deno.com/deploy) and [Cloudflare Workers](https://workers.cloudflare.com/), deploying code at scale has never been cheaper.
