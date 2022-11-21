@@ -25,7 +25,7 @@ In two of my diagrams I use the word `production readiness` on the X axis. "Prod
 
 # Components Of A Stack
 
-The core conponets of a stack boil down to three main parts. A display layer, logic layer, and data store layer.
+The core conponets of a stack boil down to three main parts. A display layer, logic layer, and data store layer. We'll walk through picking the frontend framework, backend langugage, and database technology to piece together the perfect stack.
 
 ![three components of a stack](../photos/stack.png)
 # Choosing The Frontend Framework
@@ -72,11 +72,11 @@ This one may not seem as important or straight forward but it is critical to dev
 
 #### Rust
 
-In my opinion, Rust is the clear winner. It's uncomprimising in almost every way and it has an extremely modern feel that has made it the most loved language for the past 7 years ([2016](https://insights.stackoverflow.com/survey/2016#technology-most-loved-dreaded-and-wanted), [2017](https://insights.stackoverflow.com/survey/2017#most-loved-dreaded-and-wanted), [2018](https://insights.stackoverflow.com/survey/2018#technology-_-most-loved-dreaded-and-wanted-languages), [2019](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-languages), [2020](https://insights.stackoverflow.com/survey/2020#most-loved-dreaded-and-wanted), [2021](https://insights.stackoverflow.com/survey/2021/#technology-most-loved-dreaded-and-wanted) and [2022](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)).
+In my opinion, Rust is the clear winner. It's uncomprimising in almost every way and it has an extremely modern feel that has made it the most loved language for the past 7 years ([2016](https://insights.stackoverflow.com/survey/2016#technology-most-loved-dreaded-and-wanted), [2017](https://insights.stackoverflow.com/survey/2017#most-loved-dreaded-and-wanted), [2018](https://insights.stackoverflow.com/survey/2018#technology-_-most-loved-dreaded-and-wanted-languages), [2019](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-languages), [2020](https://insights.stackoverflow.com/survey/2020#most-loved-dreaded-and-wanted), [2021](https://insights.stackoverflow.com/survey/2021/#technology-most-loved-dreaded-and-wanted) and [2022](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)). This is evidence that Rust lends itself well to the tenent of `maximizing developer productivity`. Things such as the strong type system; the included linter, test runner, and awesome package manager; the strict compiler which lends to Rust's rock solid reliablility; great documentation and context; memory and thread safety; and many others are the reasons why Rust is by far the best.
 
-![Most loved languages in 2022](../photos/most_loved_languages.png)
+[![Most loved languages in 2022](../photos/most_loved_languages.png)](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-programming-scripting-and-markup-languages)
 
-Rust is also one of the most performant languages on the market
+Rust is also one of the most performant languages on the market. Performance along with the features mentioned above are the reasons why Rust ranks highly in the `minimize technical debt` category as well. You'll never have to switch to another language.
 
 [![Rust is the highest performing languages](../photos/comparing_backend_frameworks.png)](https://web-frameworks-benchmark.netlify.app/compare?f=axum,gin,spring,fastapi,express,rails,laravel)
 
@@ -98,7 +98,7 @@ Avoid technologies such as Firebase as there is an extreme amount of technical d
 
 Along with Rust, Postgres ranks high as one of the most loved database technologies for 6 years in a row.
 
-![Most loved databases](../photos/most_loved_databases.png)
+[![Most loved databases](../photos/most_loved_databases.png)](https://survey.stackoverflow.co/2022/#section-most-loved-dreaded-and-wanted-databases)
 
 # The Stack
 
