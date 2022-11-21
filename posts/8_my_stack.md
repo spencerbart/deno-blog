@@ -1,5 +1,5 @@
 ---
-title: There's more than one way to skin a cat - Picking The Best Stack
+title: Picking The Best Stack
 publish_date: 2022-11-19
 ---
 
